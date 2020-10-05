@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		d1+8dcGPGfzFSXzz8UG8VbxbDMo=
+		Bs8tETx6q73nDGZ43ZwRd9nnqE4=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -27,6 +27,24 @@
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftAppKit" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Ben Toms (3DH75N3ZVC)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftCloudKit.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tGvVcTm5oPt4Cc8Y6/4FgtFIs6k=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCloudKit" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Ben Toms (3DH75N3ZVC)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftContacts.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			YrXd2y3hf3JQNW6nWT2EZPB9cyw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftContacts" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Ben Toms (3DH75N3ZVC)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftCore.dylib</key>
 		<dict>
@@ -72,6 +90,15 @@
 			</data>
 			<key>requirement</key>
 			<string>identifier "com.apple.dt.runtime.swiftCoreImage" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Ben Toms (3DH75N3ZVC)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/libswiftCoreLocation.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Bc9728wonOM5JUuDlZIHpJtUbLI=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCoreLocation" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: Ben Toms (3DH75N3ZVC)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
@@ -169,11 +196,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d1+8dcGPGfzFSXzz8UG8VbxbDMo=
+			Bs8tETx6q73nDGZ43ZwRd9nnqE4=
 			</data>
 			<key>hash2</key>
 			<data>
-			G2TmvUhPy8oEijHrdeb3gqzY2bmpLus4PuzATbGI1u0=
+			BU89SayZ7/4NtxcTPsRbmbkWbI32loe9/9gl8jmt/E8=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
