@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		63B92DE7282AAECD00B44340 /* ArgumentParser in Frameworks */ = {isa = PBXBuildFile; productRef = 63B92DE6282AAECD00B44340 /* ArgumentParser */; };
+		638AF5D1283E6CC7001B2DBB /* ArgumentParser in Frameworks */ = {isa = PBXBuildFile; productRef = 638AF5D0283E6CC7001B2DBB /* ArgumentParser */; };
 		63B92DED282AAF2500B44340 /* ArgParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63B92DEC282AAF2500B44340 /* ArgParser.swift */; };
 		7C516FF923BFA5BD00608BEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C516FF123BFA5BC00608BEB /* Assets.xcassets */; };
 		7C516FFA23BFA5BD00608BEB /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C516FF223BFA5BC00608BEB /* MainMenu.xib */; };
@@ -30,7 +30,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63B92DE7282AAECD00B44340 /* ArgumentParser in Frameworks */,
+				638AF5D1283E6CC7001B2DBB /* ArgumentParser in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +83,7 @@
 			);
 			name = "Notifier - Alerts";
 			packageProductDependencies = (
-				63B92DE6282AAECD00B44340 /* ArgumentParser */,
+				638AF5D0283E6CC7001B2DBB /* ArgumentParser */,
 			);
 			productName = "test-banner-2";
 			productReference = 7C8AB5DC22724FD6008E3160 /* Notifier - Alerts.app */;
@@ -126,7 +126,7 @@
 			);
 			mainGroup = 7C8AB5D322724FD6008E3160;
 			packageReferences = (
-				63B92DE5282AAECD00B44340 /* XCRemoteSwiftPackageReference "swift-argument-parser" */,
+				638AF5CF283E6CC7001B2DBB /* XCRemoteSwiftPackageReference "swift-argument-parser" */,
 			);
 			productRefGroup = 7C8AB5DD22724FD6008E3160 /* Products */;
 			projectDirPath = "";
@@ -363,7 +363,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		63B92DE5282AAECD00B44340 /* XCRemoteSwiftPackageReference "swift-argument-parser" */ = {
+		638AF5CF283E6CC7001B2DBB /* XCRemoteSwiftPackageReference "swift-argument-parser" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/apple/swift-argument-parser.git";
 			requirement = {
@@ -374,9 +374,9 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		63B92DE6282AAECD00B44340 /* ArgumentParser */ = {
+		638AF5D0283E6CC7001B2DBB /* ArgumentParser */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 63B92DE5282AAECD00B44340 /* XCRemoteSwiftPackageReference "swift-argument-parser" */;
+			package = 638AF5CF283E6CC7001B2DBB /* XCRemoteSwiftPackageReference "swift-argument-parser" */;
 			productName = ArgumentParser;
 		};
 /* End XCSwiftPackageProductDependency section */

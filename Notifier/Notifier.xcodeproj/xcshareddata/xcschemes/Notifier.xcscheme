@@ -52,7 +52,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "--message &quot;Hello World!&quot;"
+            argument = "--message &quot;Oh SNAP!&quot;"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
